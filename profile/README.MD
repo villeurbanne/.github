@@ -25,15 +25,15 @@
 
 ###
 
-<p align="left">We are :<br><br>- 🔭 currently working on 'kettle'<br>- 📚 currently learning rust (for some)</p>
+<p align="center">We are :<br><br>- 🔭 currently working on 'kettle'<br>- 📚 currently learning rust (for some)</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
